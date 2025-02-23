@@ -1,0 +1,10 @@
+Para la correcta instalación de la base de datos se debe referir a la carpeta 'Archivos SQL' y ejecutar los archivos de acuerdo al siguiente orden:
+
+1- Creación tablas
+2- Inserción datos
+3- Vistas
+4- Funciones
+5- Stored procedure
+6- Triggers
+7- DCL y TCL
+8- Back up
